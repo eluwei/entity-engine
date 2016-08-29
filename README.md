@@ -1,6 +1,11 @@
 ## Introduction
 
+mirror from Atlassian's version of ofbiz entity-engine.
+
 This project is Atlassian's fork of the Entity Engine module of the Apache OfBiz project.
+
+origin project: https://bitbucket.org/atlassian/entity-engine
+ofbiz  project: https://github.com/apache/ofbiz
 
 ## Building
 
